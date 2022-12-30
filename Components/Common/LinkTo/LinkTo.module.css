@@ -1,0 +1,14 @@
+.linkWrapper{
+    cursor: pointer;
+}
+
+.linkWrapper:hover{
+    color: var(--color-link-blue);
+    text-decoration: underline;
+}
+
+.linkWrapperActive{
+    color: var(--color-link-blue);
+    text-decoration: underline;
+    cursor: pointer;
+}

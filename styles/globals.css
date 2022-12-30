@@ -1,0 +1,34 @@
+@font-face {
+  font-family: Gilroy-Regular;
+  src: url('../public/Fonts/Gilroy-Regular.ttf');
+}
+
+@font-face {
+  font-family: Gilroy-Bold;
+  src: url('../public/Fonts/Gilroy-Bold.ttf');
+}
+
+@font-face {
+  font-family: Gilroy-Medium;
+  src: url('../public/Fonts/Gilroy-Medium.ttf');
+}
+
+html,
+body {
+  font-family: Gilroy-Medium;
+  color: var(--color-primary);
+  background-color: var(--color-background);
+  font-size: var(--text-regular);
+  transition: background 0.3s;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}

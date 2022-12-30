@@ -1,0 +1,20 @@
+.listContainer{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.listItem{
+    display: flex;
+    align-items: center;
+}
+
+.listItem span{
+    margin: 0 6px 0 6px;
+}
+
+.link{
+    margin-left: 6px;
+    line-height: 2rem;
+}

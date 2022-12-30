@@ -1,0 +1,36 @@
+/*Name Title*/
+
+.nameTitleContainer{
+    display: flex;
+}
+
+.name{
+    margin-right: 8px;
+    color: var(--color-secondary);
+    font-size: var(--text-name-title);
+    font-weight: 400;
+}
+
+.page{
+    font-size: var(--text-name-title);
+}
+
+@media screen and (max-width: 480px) {
+    .nameTitleContainer{
+        flex-direction: column;
+    }
+}
+
+/*Title*/
+.sectionTitle{
+    font-family: Gilroy-Bold;
+    font-size: var(--text-section-title);
+    margin-bottom: 1.5rem;
+}
+
+/*Subtitle*/
+
+.subTitle{
+    font-family: Gilroy-Bold;
+    font-size: var(--text-subtitle);
+}

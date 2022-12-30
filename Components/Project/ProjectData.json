@@ -1,0 +1,44 @@
+
+{
+
+    "header": [
+        "Coming soon!!!!!!"
+    ],
+
+    "codingProfiles": "I like solving problems related to DSA. Here are some of my profiles.",
+
+    "projects": {
+        "text": "Projects are a great way to apply all our learnings. Here are the ones that I have created.",
+        "list": [
+            {
+                "name": "./WinterFind",
+                "description": "Soon",
+                "techStack": "React.js, Express.js, MongoDB",
+                "links": [
+                    {
+                        "name": "GitHub",
+                        "svg": "GitHub",
+                        "url": "https://github.com/karitkpatel0170"
+                    }
+                ]
+            },
+            {
+                "name": "parkAway",
+                "description": ":-)",
+                "techStack": "soon",
+                "links": [
+                    {
+                        "name": "GitHub",
+                        "svg": "GitHub",
+                        "url": "https://github.com/kartikpatel0170"
+                    },
+                    {
+                        "name": "Live",
+                        "svg": "Eye",
+                        "url": "#"
+                    }
+                ]
+            }
+        ]
+    }
+}

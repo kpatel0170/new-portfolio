@@ -1,0 +1,84 @@
+.titleWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/*WORK EXPERIENCE SECTION*/
+
+.timelineContainer{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding-left: 1rem;
+}
+.timelineContainer::after{
+    background-color: var(--color-secondary);
+    content: '';
+    position: absolute;
+    width: 1px;
+    height: 100%;
+}
+.timelineContainer > div:first-child{
+    margin-top: 1.5rem;
+}
+.workexContainer{
+    margin-top: 1.5rem;
+}
+
+.workex{
+    margin-bottom: 1.5rem;
+    margin-left: 2rem;
+    position: relative;
+}
+
+.workex .circle{
+    border: 1px var(--color-secondary) solid;
+    background-color: var(--color-background);
+    border-radius: 50%;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 5%;
+    left: -2.25rem;
+    z-index: 100;
+}
+
+.companyName{
+    display: inline;
+}
+
+.secondaryText{
+    font-family: Gilroy-Regular;
+    font-size: var(--text-regular);
+    margin-top: 0.1rem;
+    color: var(--color-secondary);
+}
+
+@media screen and (max-width: 480px) {
+    .timelineContainer{
+        padding-left: 0;
+    }
+}
+
+/*PROJECT SECTION*/
+
+.projects{
+    margin-top: 1.5rem;
+}
+.projectWrapper{
+    margin-top: 1rem;
+}
+.skills{
+    font-family: Gilroy-Bold;
+}
+.projectTitle{
+    font-family: Gilroy-Bold;
+    font-size: var(--text-subtitle);
+}
+.profiles{
+    margin-top: 1.5rem;
+}
+
+.socialLinks{
+    margin-top: 0.5rem;
+}

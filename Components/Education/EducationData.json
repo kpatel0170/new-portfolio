@@ -1,0 +1,33 @@
+{
+    "header": [
+        "Coming soon!!!!!!"
+    ],
+
+    "education": [
+    {
+        "institute": "University of Regina - SK, Canada",
+        "course": "Bachelor of Computer Science",
+        "duration": "Sept 2021 - Sept 2025 (expected)",
+        "description": "blizzardWorld - implemented vintage computer game Nightfall in 6 different versions, using functional programming, object-oriented concepts, data encapsulation, inheritance, and modular programming. Student Representative - Developed strong organizational and leadership skills as a Council member - Council Discipline Committee and Campus Ambassador - volunteering 25+ hours/month at university events. myPoll - created a dynamic micro-polling website using client and server-side programming, 3-tier architecture and UI/UX principles. ",
+        "achievement" : "Academic Silver Schlorship",
+        "url": "https://www.uregina.ca/"
+    },
+    {
+        "institute": "Jay Jalaram International School - Thermal, India",
+        "course": "Secondary Education with Science Stream - PCM",
+        "duration": "Apr 2018 - Apr 2020",
+        "description": "Amazing days!!",
+        "achievement" : "Player of the series - District level Cricket Tournament",
+        "url": "http://thermal.jjis.in/"
+    },
+    {
+        "institute": "Pulhashram International School - Dakor, India",
+        "course": "High School",
+        "duration": "Apr 2006 - Apr 2018",
+        "description": "Golden days!!!! Always wish to go back!",
+        "achievement" : "Gold Medal - International Informatics Olympiad, Highest Wicket Taker - Annual Sports 2018",
+        "url": "https://pulhashram.org/"
+    }
+
+    ]
+}

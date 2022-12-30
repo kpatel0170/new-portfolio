@@ -1,0 +1,5 @@
+.paragraph{
+    margin-top: 1rem;
+    font-size: var(--text-regular);
+    text-align: justify;
+}

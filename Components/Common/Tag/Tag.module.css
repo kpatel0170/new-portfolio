@@ -1,0 +1,15 @@
+.tagWrapper{
+    background-color: var(--color-tag-background);
+    width: fit-content;
+    padding: 4px 10px;
+    margin-right: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.tagText{
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: var(--color-secondary);
+}

@@ -1,0 +1,46 @@
+{
+    "header": [
+        "I have one year of professional experience. Here are some details about it."
+    ],
+
+    "experience": [
+        {
+            "company": "Google Developers Student Club",
+            "role": "Communication Lead",
+            "duration": "Since Sept 2022",
+            "description": "Responsible for internal and external communications for the club while working towards the identification of areas needing improvements and consistently preparing appropriate recommendations. Initiated and established growth and stability of discord server for club managing 150+ active members. Collaborated and coordinated with other core members for making affirmative contribution to improvements including event ideas and planning, ensuring smooth execution of the programs/events.",
+            "skills": "Leadership, Community Building, Event Management",
+            "url": "https://www.urgdsc.com/"
+        },
+        {
+            "company": "Proven Foods",
+            "role": "Store Supervisor",
+            "duration": "Sept 2021 - PRESENT",
+            "description": " Maintained high quality of customer service while working a fast paced operation. Trusted with cash drawer and delivering bank deposits. Maintained clean place to prepare food with high sanitary standards. Scanned and entered packages into the tracking system (inventory/delivery).",
+            "skills": "Customer Service, ",
+            "url": "#"
+        },
+        {
+            "company": "Governmant of Saskatchewan",
+            "role": "Office Administrator",
+            "duration": "June 2022 - Sept 2022",
+            "description": "Responded to all customers’ inquiries in a timely manner and answered the phone to take messages or redirect calls to appropriate colleagues while seeking staff input in decision-making to develop a solution. Assisted senior employees by helping them with technical skills, team tools, tech stacks, and systems. Implemented physical and digital filing systems to maintain files and records as well as improved administrative support systems through the effective use of forms, technologies, and automation.",
+            "skills": " ",
+            "url": "#"
+        },
+        {
+            "company": "Staples",
+            "role": "Technical Sales Representative",
+            "duration": "Apr 2022 - Aug 2022",
+            "description": "Connected, shared and partnered with customers to identify their technical needs and convert sales opportunities by meeting and exceeding their needs while mentoring several new hires to memorize technical details and use of tools. Worked with end users to install, inspect, maintain, operate, and/or repair technical equipment and software. Demonstrated competent performance by acquiring active roles in sales advisory team to assist new customers and winning potential customers using effective up-selling; achieving 30% higher tech sales figure within 2 months.",
+            "skills": "Tech Support, Upselling, Operational Excellence",
+            "url": "#"
+        }
+
+    ],
+
+
+
+    "codingProfiles": "I like solving problems related to DSA. Here are some of my profiles."
+
+}

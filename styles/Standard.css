@@ -1,0 +1,22 @@
+:root {
+    --color-primary: #202020;
+    --color-secondary: #333533;
+    --color-tag-background: #D6D6D6;
+    --color-link-blue: #0582CA;
+    --color-background: #FFFFFF;
+
+    --text-regular: 1rem;
+    --text-name-title: 2.5rem;
+    --text-section-title: 1.5rem;
+    --text-navigation: 1.25rem;
+    --text-subtitle: 1.25rem;
+}
+
+[data-theme="dark"] {
+    --color-primary: #FFFFFF;
+    --color-secondary: #9C9C9C;
+    --color-link-blue: #0582CA;
+    --color-tag-background: #303030;
+    --color-background: #121212;
+}
+  

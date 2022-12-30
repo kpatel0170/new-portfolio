@@ -1,0 +1,17 @@
+.titleWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.technologies{
+    margin-top: 1.5rem;
+}
+
+.connect{
+    margin-top: 1.5rem;
+}
+
+.socialLinks{
+    margin-top: 0.5rem;
+}

@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0 15px 0;
+    margin-top: 2rem;
+    position: sticky;
+    top: 100vh;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover {
+    text-decoration: underline;
+}
+.dot{
+    font-size: 6px;
+    color: var(--color-secondary);
+    margin: 0 8px 0 8px;
+}
