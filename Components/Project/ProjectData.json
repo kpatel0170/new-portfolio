@@ -13,12 +13,29 @@
             {
                 "name": "./WinterFind",
                 "description": "Soon",
-                "techStack": "React.js, Express.js, MongoDB",
+                "techStack": "React.js, Express.js, Blender, Node,js, Three.js",
                 "links": [
                     {
                         "name": "GitHub",
                         "svg": "GitHub",
-                        "url": "https://github.com/karitkpatel0170"
+                        "url": "https://github.com/kartikpatel0170/Winter-Find"
+                    },
+                    {
+                        "name": "Live",
+                        "svg": "Eye",
+                        "url": "findurgf-in-winter-io.vercel.app"
+                    }
+                ]
+            },
+            {
+                "name": "Electron",
+                "description": "Soon",
+                "techStack": "React.js, Express.js, Blender, Node,js, Three.js",
+                "links": [
+                    {
+                        "name": "GitHub",
+                        "svg": "GitHub",
+                        "url": "https://github.com/kartikpatel0170/Winter-Find"
                     }
                 ]
             },
@@ -30,12 +47,19 @@
                     {
                         "name": "GitHub",
                         "svg": "GitHub",
-                        "url": "https://github.com/kartikpatel0170"
-                    },
+                        "url": "https://github.com/kartikpatel0170/parkAway"
+                    }
+                ]
+            },
+            {
+                "name": "CRUD App",
+                "description": "A simple CRUD (create, read, update, delete) application using MERN stack.",
+                "techStack": "MongoDB, Express.js, React.js, Node.js",
+                "links": [
                     {
-                        "name": "Live",
-                        "svg": "Eye",
-                        "url": "#"
+                        "name": "GitHub",
+                        "svg": "GitHub",
+                        "url": "https://github.com/kartikpatel0170/CRUD-App"
                     }
                 ]
             }
