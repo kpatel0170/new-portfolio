@@ -1,8 +1,8 @@
 
 {
 
-    "header": [
-        ""
+    "header": [ 
+        "soon"
     ],
 
     "codingProfiles": "I like solving problems related to DSA. Here are some of my profiles.",
@@ -23,7 +23,7 @@
                     {
                         "name": "Live",
                         "svg": "Eye",
-                        "url": "findurgf-in-winter-io.vercel.app"
+                        "url": "https://findurgf-in-winter-io.vercel.app"
                     }
                 ]
             },
@@ -41,7 +41,7 @@
             },
             {
                 "name": "parkAway",
-                "description": "It's a parking service where clients can post parking lots for rent. And users/customers can send a request to make a deal/contract. It's a kind of Airbnb for parking lots.",
+                "description": "It is a parking service where clients can post parking lots for rent. And users or customers can send a request to make a deal or contract. It is a kind of Airbnb for parking lots.",
                 "techStack": "React.js, Express.js, Node.js, MongoDB, Bootstrap, Twilio",
                 "links": [
                     {
@@ -65,8 +65,7 @@
             },
             {
                 "name": "SpyPooch",
-                "description": " It keeps track of the users' gate and lets them know if they cross it by sending them an SMS and only records when the
-                dog/cat is in the frame.",
+                "description": "It keeps track of the users gate and lets them know if they cross it by sending them an SMS and only records when the dog or cat is in the frame.",
                 "techStack": "TensorFlow JS, React JS, Node JS, Express JS, Twilio",
                 "links": [
                     {
