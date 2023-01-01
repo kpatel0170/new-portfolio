@@ -17,11 +17,11 @@ const Experience: NextPage = () => {
                 ></meta>
                 <meta
                     name="description"
-                    content="CS Student at University of Regina"
+                    content="I love exploring technologies and meeting new people!"
                 />
                 <meta
                     name="og:description"
-                    content="CS Student at University of Regina"
+                    content="I love exploring technologies and meeting new people!"
                 />
                 <meta name="apple-mobile-web-app-title" content="Kartik" />
                 <meta

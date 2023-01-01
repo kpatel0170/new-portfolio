@@ -17,11 +17,11 @@ const Home: NextPage = () => {
                 ></meta>
                 <meta
                     name="description"
-                    content="CS student at UofR"
+                    content="I love exploring technologies and meeting new people!"
                 />
                 <meta
                     name="og:description"
-                    content="CS student at UofR"
+                    content="I love exploring technologies and meeting new people!"
                 />
                 <meta property="og:type" content="website" />
                 <meta name="apple-mobile-web-app-title" content="Kartik" />
