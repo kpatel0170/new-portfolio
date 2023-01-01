@@ -2,7 +2,7 @@
 {
 
     "header": [
-        "Coming soon!!!!!!"
+        ""
     ],
 
     "codingProfiles": "I like solving problems related to DSA. Here are some of my profiles.",
@@ -12,8 +12,8 @@
         "list": [
             {
                 "name": "./WinterFind",
-                "description": "Soon",
-                "techStack": "React.js, Express.js, Blender, Node,js, Three.js",
+                "description": "Winter-Find is a 3D interactive web-based game where the user have to search for a gift in winter world.",
+                "techStack": "React.js, Express.js, Blender, Node,js, Three.js, React Fiber",
                 "links": [
                     {
                         "name": "GitHub",
@@ -29,20 +29,20 @@
             },
             {
                 "name": "Electron",
-                "description": "Soon",
-                "techStack": "React.js, Express.js, Blender, Node,js, Three.js",
+                "description": "Electron is a ML model that predicts the required consumption of energy so that additional usage of energy can be saved.",
+                "techStack": "Jupitor Notebook, Pandas, Python, Flask, Sklearn",
                 "links": [
                     {
                         "name": "GitHub",
                         "svg": "GitHub",
-                        "url": "https://github.com/kartikpatel0170/Winter-Find"
+                        "url": "https://github.com/kartikpatel0170/Electron"
                     }
                 ]
             },
             {
                 "name": "parkAway",
-                "description": ":-)",
-                "techStack": "soon",
+                "description": "It's a parking service where clients can post parking lots for rent. And users/customers can send a request to make a deal/contract. It's a kind of Airbnb for parking lots.",
+                "techStack": "React.js, Express.js, Node.js, MongoDB, Bootstrap, Twilio",
                 "links": [
                     {
                         "name": "GitHub",
@@ -60,6 +60,19 @@
                         "name": "GitHub",
                         "svg": "GitHub",
                         "url": "https://github.com/kartikpatel0170/CRUD-App"
+                    }
+                ]
+            },
+            {
+                "name": "SpyPooch",
+                "description": " It keeps track of the users' gate and lets them know if they cross it by sending them an SMS and only records when the
+                dog/cat is in the frame.",
+                "techStack": "TensorFlow JS, React JS, Node JS, Express JS, Twilio",
+                "links": [
+                    {
+                        "name": "GitHub",
+                        "svg": "GitHub",
+                        "url": "https://github.com/kartikpatel0170/SpyPooch"
                     }
                 ]
             }
