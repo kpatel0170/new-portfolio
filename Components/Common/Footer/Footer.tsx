@@ -7,15 +7,16 @@ export const Footer = (): ReactElement => {
         <>
             <footer className={classes.container}>
                 <span>
-                    Built by{" "}
+                    © 2023{" "}
                     <LinkTo
                         className={classes.link}
                         href="https://github.com/kartikpatel0170/"
                         isActive
                         target="_blank"
                     >
-                        Kartik
+                        Kartik Patel
                     </LinkTo>
+                    ! All rights reserved.
                 </span>
             </footer>
         </>
