@@ -5,6 +5,14 @@
 
     "experience": [
         {
+            "company": "University of Regina",
+            "role": "Lab Instructor",
+            "duration": "Since Jan 2023",
+            "description": "Responsible for teaching Digital System Architecture (CS201) Labs",
+            "skills": "Presentation skills.",
+            "url": "https://www.urgdsc.com/"
+        },
+        {
             "company": "Google Developers Student Club",
             "role": "Communication Lead",
             "duration": "Since Sept 2022",
