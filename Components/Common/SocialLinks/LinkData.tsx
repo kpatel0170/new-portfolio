@@ -2,27 +2,22 @@ export const homePageSocialLinks : ISocialLink[] = [
     {
         name: "LinkedIn",
         svg: "LinkedIn",
-        url: "https://www.linkedin.com/in/kartikpatel0170/",
+        url: "https://www.linkedin.com/in/kpatel0170/",
     },
     {
         name: "DevPost",
         svg: "DevTo",
-        url: "https://devpost.com/kartikpatel0170",
+        url: "https://devpost.com/kpatel0170",
     },
     {
         name: "Instagram",
         svg: "Instagram",
-        url: "https://www.instagram.com/kartikpatel0170/",
-    },
-    {
-        name: "Facebook",
-        svg: "Facebook",
-        url: "https://www.facebook.com/kartikpatel0170/",
+        url: "https://www.instagram.com/kpatel0170/",
     },
     {
         name: "GitHub",
         svg: "GitHub",
-        url: "https://github.com/kartikpatel0170",
+        url: "https://github.com/kpatel0170",
     },
 ];
 
