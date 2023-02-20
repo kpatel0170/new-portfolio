@@ -11,6 +11,42 @@
         "text": "Projects are a great way to apply all our learnings. Here are the ones that I have created.",
         "list": [
             {
+                "name": "Settlout",
+                "description": "It is a unique platform that aims to provide international students with the support and resources they need to navigate
+                the challenges of settling into a new environment.",
+                "techStack": "MERN stack, Postman, Tailwind, Stripe API, SendGrid API, Twillo",
+                "links": [
+                    {
+                        "name": "GitHub",
+                        "svg": "GitHub",
+                        "url": "#"
+                    },
+                    {
+                        "name": "Live",
+                        "svg": "Eye",
+                        "url": "#"
+                    }
+                ]
+            },
+            {
+                "name": "EnrollEasy",
+                "description": "It’s a connection between students and educational institutions (universities). Easing the on-boarding process on
+                selecting the best option for educational institutes.",
+                "techStack": "Angular.Js, INGINX, Tailwind, postgre, Python, Flask, deployed on Dockerized VM by Docker Swarm.",
+                "links": [
+                    {
+                        "name": "GitHub",
+                        "svg": "GitHub",
+                        "url": "#"
+                    },
+                    {
+                        "name": "Live",
+                        "svg": "Eye",
+                        "url": "https://24hour.yazdanra.com/"
+                    }
+                ]
+            },
+            {
                 "name": "./WinterFind",
                 "description": "Winter-Find is a 3D interactive web-based game where the user have to search for a gift in winter world.",
                 "techStack": "React.js, Express.js, Blender, Node,js, Three.js, React Fiber",
