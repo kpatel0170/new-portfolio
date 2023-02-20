@@ -12,8 +12,7 @@
         "list": [
             {
                 "name": "Settlout",
-                "description": "It is a unique platform that aims to provide international students with the support and resources they need to navigate
-                the challenges of settling into a new environment.",
+                "description": "It is a unique platform that aims to provide international students with the support and resources they need to navigate the challenges of settling into a new environment.",
                 "techStack": "MERN stack, Postman, Tailwind, Stripe API, SendGrid API, Twillo",
                 "links": [
                     {
@@ -24,20 +23,19 @@
                     {
                         "name": "Live",
                         "svg": "Eye",
-                        "url": "#"
+                        "url": ""
                     }
                 ]
             },
             {
                 "name": "EnrollEasy",
-                "description": "It’s a connection between students and educational institutions (universities). Easing the on-boarding process on
-                selecting the best option for educational institutes.",
+                "description": "It’s a connection between students and educational institutions (universities). Easing the on-boarding process on selecting the best option for educational institutes.",
                 "techStack": "Angular.Js, INGINX, Tailwind, postgre, Python, Flask, deployed on Dockerized VM by Docker Swarm.",
                 "links": [
                     {
                         "name": "GitHub",
                         "svg": "GitHub",
-                        "url": "#"
+                        "url": ""
                     },
                     {
                         "name": "Live",
