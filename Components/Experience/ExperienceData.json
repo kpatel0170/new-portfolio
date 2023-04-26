@@ -5,12 +5,20 @@
 
     "experience": [
         {
+            "company": "Computer Science Students Socitey (CSSS), University of Regina",
+            "role": "Vice President",
+            "duration": "Since May 2023",
+            "description": "coming soon ",
+            "skills": "Leadership, Communication, Event Management",
+            "url": "/"
+        },
+        {
             "company": "University of Regina",
             "role": "Lab Instructor",
             "duration": "Since Jan 2023",
             "description": "Responsible for teaching Digital System Architecture (CS201) Labs",
             "skills": "Presentation skills.",
-            "url": "https://www.urgdsc.com/"
+            "url": "/"
         },
         {
             "company": "Google Developers Student Club",
