@@ -30,7 +30,7 @@
             {
                 "name": "EnrollEasy",
                 "description": "It’s a connection between students and educational institutions (universities). Easing the on-boarding process on selecting the best option for educational institutes.",
-                "techStack": "Angular.Js, INGINX, Tailwind, postgre, Python, Flask, deployed on Dockerized VM by Docker Swarm.",
+                "techStack": "Angular.Js, NGINX, Tailwind, postgre, Python, Flask, deployed on Dockerized VM by Docker Swarm.",
                 "links": [
                     {
                         "name": "GitHub",
@@ -41,6 +41,23 @@
                         "name": "Live",
                         "svg": "Eye",
                         "url": "https://24hour.yazdanra.com/"
+                    }
+                ]
+            },
+            {
+                "name": "SharksTanks",
+                "description": "Join the battle, forge your destiny. SharkTanks is a 3D multiplayer online game built from scratch.",
+                "techStack": "Node.js, Express.js, Three.js, socketIO and vanilla.js",
+                "links": [
+                    {
+                        "name": "GitHub",
+                        "svg": "GitHub",
+                        "url": "https://github.com/kpatel0170/SharkTanks"
+                    },
+                    {
+                        "name": "Live",
+                        "svg": "Eye",
+                        "url": "https://sharktanks.tech/"
                     }
                 ]
             },
