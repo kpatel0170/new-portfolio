@@ -5,10 +5,18 @@
 
     "experience": [
         {
-            "company": "Computer Science Students Socitey (CSSS), University of Regina",
-            "role": "Vice President",
+            "company": "FarmSimple Canada Inc.",
+            "role": "Junior Developer - Summer student",
             "duration": "Since May 2023",
-            "description": "coming soon ",
+            "description": "Developed and launched a robust and scalable mobile app using React Native Expo, implementing responsive layouts to ensure optimal user experience and integrating APIs to enable seamless data retrieval and management. Actively participated in the software development lifecycle (SDLC) and collaborated closely with a the team, demonstrating strong teamwork skills and contributing to the successful delivery of the application.",
+            "skills": "SDLC, React native expo",
+            "url": "https://farmsimple.ca/"
+        },
+        {
+            "company": "University of Regina",
+            "role": "VP - CSSS, Communication Lead - URGDSC, GitHub Campus Expert",
+            "duration": "Since May 2023",
+            "description": "Empowering students through effective leadership and community building as the 1st ever Github campus Expert in Saskatchewan, Communication Lead at Google Developer Students Club at the University of Regina (URGDSC), and Vice President at Computer Science Students Society (CSSS). Led a cross-functional team of 10+ people by conducting timed plans and defining positions, goals, and growth",
             "skills": "Leadership, Communication, Event Management",
             "url": "/"
         },
